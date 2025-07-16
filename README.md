@@ -82,14 +82,6 @@ Task Checklist
 [x] Created admin user  
 [x] Built and tested Blog content type  
 [x] Pushed project to GitHub  
-[ ] Recorded Loom video  
-[ ] Shared PR + video link in team channel
-
----
-
-Loom Video
-
-Link to Loom walkthrough video goes here
 
 ---
 
